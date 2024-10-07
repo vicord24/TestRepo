@@ -1,6 +1,3 @@
 # TestRepo
-Preparing for lab, use this for test
 
-Edit
-
-Edit
+Repo for Pull Requestes demonstration in LAB6
