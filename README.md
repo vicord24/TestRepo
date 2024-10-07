@@ -1,3 +1,3 @@
 # TestRepo
 
-Repo for Pull Requestes demonstration in LAB6
+Repo for Pull Requests demonstration in LAB6
